@@ -1,2 +1,3 @@
 # do not run Prettier against Jsql files
 *.sql
+./dist
